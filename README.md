@@ -1,0 +1,2 @@
+# ota_test
+HttpsOTAUpdateがgithubで使用できるかのテスト用リポジトリ
